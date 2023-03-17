@@ -1,0 +1,10 @@
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\bin\Debug\Encriptando.exe.config
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\bin\Debug\Encriptando.exe
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\bin\Debug\Encriptando.pdb
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\obj\Debug\Encriptando.csproj.AssemblyReference.cache
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\obj\Debug\Encriptando.Form1.resources
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\obj\Debug\Encriptando.Properties.Resources.resources
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\obj\Debug\Encriptando.csproj.GenerateResource.cache
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\obj\Debug\Encriptando.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\obj\Debug\Encriptando.exe
+C:\Users\Brayan Alonso\source\repos\Encriptando\Encriptando\obj\Debug\Encriptando.pdb

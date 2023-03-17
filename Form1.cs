@@ -32,10 +32,9 @@ namespace Encriptando
                     int asciiCadena = (int)subcadena[i];
                     int asciiClave = (int)clave[i];
                     int asciiResultado = asciiCadena ^ asciiClave;
-                    char caracterResultado = (char)asciiResultado;
-                    cadenaEncriptada += caracterResultado.ToString();
-                }
+                    cadenaEncriptada += BitConverter.ToString(new byte[] { (byte)asciiResultado });
 
+                }
                 txtResultado.Text = cadenaEncriptada;
             }
             else
